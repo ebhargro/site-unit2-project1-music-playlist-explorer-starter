@@ -138,6 +138,6 @@ I would love to fix the spacing and styling within my modal, but ran short on ti
 
 ### Shout out
 
-Shoutout to Bob for the tip on how he did the homepage!
+Shoutout to Bob for the tip on the homepage!
 
 
