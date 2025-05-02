@@ -5,23 +5,47 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <title>Music Playlist Explorer</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <!-- Your header content here -->
+    <header class="playlist-explorer-header"> 
+      <section class="playlist-title-section">
+      <img class="playlist-explorer-header-img" src="assets/img/favicon.ico">
+       <span > Music Playlist Explorer </span>
+      </section>
+         <nav class="main-nav">
+    <a href="featured.html">Go to Featured Page</a>
     </header>
 
     <main> 
-        <!-- Your main content here -->
+        <section class="controls">
+  <div class="search-bar">
+    <input type="text" id="search-input" placeholder="Search by playlist name or author" />
+    <button id="search-btn">Search</button>
+    <button id="clear-btn">Clear</button>
+  </div>
+  <div class="sort-dropdown">
+    <label for="sort-select">Sort by:</label>
+    <select id="sort-select">
+      <option value="">--Select--</option>
+      <option value="name">Playlist Name (A-Z)</option>
+      <option value="likes">Likes (High to Low)</option>
+      <option value="date">Date Added (Newest)</option>
+    </select>
+  </div>
+</section>
+        <section class="playlist-cards">
+    </section>
     </main>
 
-    <footer>
-        <!-- Your footer content here -->
+    <div id="playlist-modal" class="playlist-modal">
+    <div class="modal-content">
+
+    </div>
+  </div>  
+
+    <footer class="playlist-explorer-footer">
     </footer>
-    <script src="data/data.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

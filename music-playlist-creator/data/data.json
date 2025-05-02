@@ -1,0 +1,118 @@
+{
+  "playlists": [
+    {
+      "playlistID": "1",
+      "playlist_name": "Chill Vibes",
+      "playlist_author": "DJ Relax",
+      "playlist_art": "assets/img/playlist.png",
+      "likes": 23,
+      "songs": [
+        {"title": "Peaceful Mind", "artist": "Lofi Lee", "album": "Dreamscape", "duration": "3:15", "cover_art": "assets/img/song.png"},
+        {"title": "Ocean Eyes", "artist": "Synth Waves", "album": "Coastal Dreams", "duration": "2:58", "cover_art": "assets/img/song.png"},
+        {"title": "Moonlight", "artist": "Night Owl", "album": "Midnight Tides", "duration": "4:01", "cover_art": "assets/img/song.png"},
+        {"title": "Late Night Ride", "artist": "Zenith", "album": "Sleepless", "duration": "3:47", "cover_art": "assets/img/song.png"},
+        {"title": "Daydream", "artist": "Calm Cloud", "album": "Tranquility", "duration": "3:21", "cover_art": "assets/img/song.png"},
+        {"title": "Reflection", "artist": "Echo Drift", "album": "Still Waters", "duration": "2:55", "cover_art": "assets/img/song.png"},
+        {"title": "Blue Horizon", "artist": "Lofi Lights", "album": "Glow", "duration": "3:40", "cover_art": "assets/img/song.png"},
+        {"title": "Frozen Sky", "artist": "Arctic Zen", "album": "Borealis", "duration": "4:02", "cover_art": "assets/img/song.png"},
+        {"title": "Featherlight", "artist": "Wavesmith", "album": "Pillow Talk", "duration": "3:10", "cover_art": "assets/img/song.png"},
+        {"title": "Cloud Surfing", "artist": "Dream Pilot", "album": "Nimbus", "duration": "3:30", "cover_art": "assets/img/song.png"}
+      ]
+    },
+    {
+      "playlistID": "2",
+      "playlist_name": "Workout Mix",
+      "playlist_author": "FitBeats",
+      "playlist_art": "assets/img/playlist.png",
+      "likes": 45,
+      "songs": [
+        {"title": "Push It", "artist": "Cardio King", "album": "Power Moves", "duration": "3:50", "cover_art": "assets/img/song.png"},
+        {"title": "No Limits", "artist": "BeastMode", "album": "Sweat Sessions", "duration": "4:10", "cover_art": "assets/img/song.png"},
+        {"title": "Final Set", "artist": "Pump Up", "album": "Reps", "duration": "3:40", "cover_art": "assets/img/song.png"},
+        {"title": "Energy Rush", "artist": "Adrenaline", "album": "Turbo Tracks", "duration": "3:15", "cover_art": "assets/img/song.png"},
+        {"title": "Break a Sweat", "artist": "Pulse", "album": "Core Burner", "duration": "3:20", "cover_art": "assets/img/song.png"},
+        {"title": "Powerhouse", "artist": "Lift Heavy", "album": "Max Out", "duration": "4:00", "cover_art": "assets/img/song.png"},
+        {"title": "Sprint Mode", "artist": "Track Star", "album": "On the Run", "duration": "2:59", "cover_art": "assets/img/song.png"},
+        {"title": "Grind Time", "artist": "GYM", "album": "Beast Mode", "duration": "3:33", "cover_art": "assets/img/song.png"},
+        {"title": "Cardio Burner", "artist": "Fit Flame", "album": "Heatwave", "duration": "3:12", "cover_art": "assets/img/song.png"},
+        {"title": "Victory Lap", "artist": "RunnerUp", "album": "Finish Line", "duration": "3:55", "cover_art": "assets/img/song.png"}
+      ]
+    },
+    {
+      "playlistID": "3",
+      "playlist_name": "Indie Gold",
+      "playlist_author": "Alt Queen",
+      "playlist_art": "assets/img/playlist.png",
+      "likes": 12,
+      "songs": [
+        {"title": "Velvet Sky", "artist": "The Echo", "album": "Indigo", "duration": "3:32", "cover_art": "assets/img/song.png"},
+        {"title": "Rainfall", "artist": "Daisy Daze", "album": "Petals", "duration": "2:45", "cover_art": "assets/img/song.png"},
+        {"title": "Lemonade", "artist": "Citrus Sun", "album": "Summer Static", "duration": "3:50", "cover_art": "assets/img/song.png"},
+        {"title": "Goldmine", "artist": "Shiny Things", "album": "Treasure Hunt", "duration": "3:20", "cover_art": "assets/img/song.png"},
+        {"title": "Brooklyn", "artist": "Street Sounds", "album": "Uptown", "duration": "3:55", "cover_art": "assets/img/song.png"},
+        {"title": "Indigo Girl", "artist": "Alt Avenue", "album": "Colors", "duration": "3:48", "cover_art": "assets/img/song.png"},
+        {"title": "Kaleidoscope", "artist": "Fractal Love", "album": "Refractions", "duration": "4:02", "cover_art": "assets/img/song.png"},
+        {"title": "Summer High", "artist": "Heatstroke", "album": "Warm Air", "duration": "3:00", "cover_art": "assets/img/song.png"},
+        {"title": "Bike Ride", "artist": "Lazy Legs", "album": "Pedals", "duration": "2:40", "cover_art": "assets/img/song.png"},
+        {"title": "Cactus Bloom", "artist": "Desert Dance", "album": "Succulent Sounds", "duration": "3:36", "cover_art": "assets/img/song.png"}
+      ]
+    },
+    {
+      "playlistID": "4",
+      "playlist_name": "Pop Parade",
+      "playlist_author": "Top Hits FM",
+      "playlist_art": "assets/img/playlist.png",
+      "likes": 60,
+      "songs": [
+        {"title": "Firestarter", "artist": "Nova", "album": "Ignite", "duration": "3:15", "cover_art": "assets/img/song.png"},
+        {"title": "Glow Up", "artist": "Bright", "album": "Shine", "duration": "3:50", "cover_art": "assets/img/song.png"},
+        {"title": "Heartbeat", "artist": "PulsePop", "album": "Feel It", "duration": "2:58", "cover_art": "assets/img/song.png"},
+        {"title": "Snap", "artist": "Zella", "album": "Clicks", "duration": "3:21", "cover_art": "assets/img/song.png"},
+        {"title": "Dance With Me", "artist": "Raye", "album": "Motion", "duration": "3:39", "cover_art": "assets/img/song.png"},
+        {"title": "Electric", "artist": "Vibe", "album": "Surge", "duration": "3:33", "cover_art": "assets/img/song.png"},
+        {"title": "Magic Touch", "artist": "Juno", "album": "Fingers", "duration": "3:20", "cover_art": "assets/img/song.png"},
+        {"title": "Paradise", "artist": "Echo", "album": "Utopia", "duration": "4:00", "cover_art": "assets/img/song.png"},
+        {"title": "Replay", "artist": "Loop", "album": "Again", "duration": "3:10", "cover_art": "assets/img/song.png"},
+        {"title": "Turn It Up", "artist": "Volume", "album": "Louder", "duration": "3:12", "cover_art": "assets/img/song.png"}
+      ]
+    },
+    {
+      "playlistID": "5",
+      "playlist_name": "Jazz Lounge",
+      "playlist_author": "Smooth Operator",
+      "playlist_art": "assets/img/playlist.png",
+      "likes": 34,
+      "songs": [
+        {"title": "Midnight Swing", "artist": "The Trio", "album": "After Hours", "duration": "4:05", "cover_art": "assets/img/song.png"},
+        {"title": "Café Blue", "artist": "Smooth Vibe", "album": "Sundown", "duration": "3:40", "cover_art": "assets/img/song.png"},
+        {"title": "Velvet Sax", "artist": "Blueside", "album": "Moondust", "duration": "4:15", "cover_art": "assets/img/song.png"},
+        {"title": "Nightcap", "artist": "Ella & Co.", "album": "Cocktails", "duration": "3:30", "cover_art": "assets/img/song.png"},
+        {"title": "Amber Lights", "artist": "City Mood", "album": "Streetlights", "duration": "3:55", "cover_art": "assets/img/song.png"},
+        {"title": "Rainy Days", "artist": "Cool Quartet", "album": "Umbrella", "duration": "3:28", "cover_art": "assets/img/song.png"},
+        {"title": "Brass & Soul", "artist": "Groove Talk", "album": "Roots", "duration": "3:48", "cover_art": "assets/img/song.png"},
+        {"title": "Gentle Breeze", "artist": "Evening Set", "album": "Windsong", "duration": "4:00", "cover_art": "assets/img/song.png"},
+        {"title": "Vinyl Days", "artist": "Old School", "album": "Crate Diggin", "duration": "3:50", "cover_art": "assets/img/song.png"},
+        {"title": "Late Lounge", "artist": "Smooth Crew", "album": "Jazz Night", "duration": "3:45", "cover_art": "assets/img/song.png"}
+      ]
+    },
+    {
+      "playlistID": "6",
+      "playlist_name": "Road Trip Rock",
+      "playlist_author": "The Riders",
+      "playlist_art": "assets/img/playlist.png",
+      "likes": 39,
+      "songs": [
+        {"title": "Highway Star", "artist": "The Legends", "album": "Rock On", "duration": "4:30", "cover_art": "assets/img/song.png"},
+        {"title": "Freewheel", "artist": "Rollin' Thunder", "album": "Speed", "duration": "4:10", "cover_art": "assets/img/song.png"},
+        {"title": "Sunset Drive", "artist": "Southbound", "album": "Dust", "duration": "3:50", "cover_art": "assets/img/song.png"},
+        {"title": "Overdrive", "artist": "Full Tank", "album": "Rev", "duration": "3:45", "cover_art": "assets/img/song.png"},
+        {"title": "Dust Storm", "artist": "Rock Dust", "album": "Drive", "duration": "4:20", "cover_art": "assets/img/song.png"},
+        {"title": "Horizon", "artist": "Crossroad", "album": "Wide Open", "duration": "3:55", "cover_art": "assets/img/song.png"},
+        {"title": "Rolling Stone", "artist": "The Wheels", "album": "Rock Ride", "duration": "4:05", "cover_art": "assets/img/song.png"},
+        {"title": "Gasoline", "artist": "Motor City", "album": "Fuel", "duration": "3:35", "cover_art": "assets/img/song.png"},
+        {"title": "Backroads", "artist": "Rebel Run", "album": "Country Rock", "duration": "3:42", "cover_art": "assets/img/song.png"},
+        {"title": "Freedom", "artist": "Route 66", "album": "Escape", "duration": "4:00", "cover_art": "assets/img/song.png"}
+      ]
+    }
+  ]
+}
