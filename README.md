@@ -2,7 +2,7 @@
 
 Submitted by: **Ebony Hargro**
 
-Estimated time spent: **5** hours spent in total
+Estimated time spent: **7** hours spent in total
 
 Deployed Application (**required**): [Music Playlist Explorer Deployed Site](https://ebhargro.github.io/site-unit2-project1-music-playlist-explorer-starter/index.html)
 
@@ -116,9 +116,28 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](htt
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. Ensure your walkthrough showcases the presence and/or functionality of all features you implemented above (check them off as you film!). Pay attention to any **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS** checkboxes listed above to ensure graders see the full functionality of your website! (🚫 Remove this paragraph after adding walkthrough video)
+https://www.loom.com/share/8dff4ee649324bb2970df337b187a1e5?sid=dc75c74a-2903-4bf9-8b95-d3d47ac1f9a4
 
-[![Walkthrough video](https://www.loom.com/share/8dff4ee649324bb2970df337b187a1e5?sid=dc75c74a-2903-4bf9-8b95-d3d47ac1f9a4)
+### Reflection
 
+* Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
+
+Yep! I felt prepared, although the Featured Home Page did surprise be a little.
+
+* If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
+  
+I would have attempted the remaining Stretch tasks.
+
+* Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
+
+I would love to fix the spacing and styling within my modal, but ran short on time.
+
+### Open-source libraries used
+
+- N/A
+
+### Shout out
+
+Shoutout to Bob for the tip on how he did the homepage!
 
 
